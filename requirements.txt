@@ -1,6 +1,9 @@
-qiskit==2.0.2
+qiskit[visualization]==1.4.3
 qiskit-machine-learning==0.8.2
 qiskit_algorithms==0.3.1
+qiskit-ibm-runtime
 scikit-learn
 matplotlib
 numpy
+pandas
+ipykernel
