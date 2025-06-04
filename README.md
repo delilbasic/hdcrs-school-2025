@@ -19,3 +19,4 @@ Repo available here: https://github.com/quantum-kittens/HDCRS_School2025
 *Amer Delilbasic (Forschungszentrum Jülich / University of Iceland)*
 
 Jupyter notebook available in this repo (`hands_on2_QML.ipynb`). 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delilbasic/hdcrs-school-2025/blob/main/hands_on2_QML.ipynb)
